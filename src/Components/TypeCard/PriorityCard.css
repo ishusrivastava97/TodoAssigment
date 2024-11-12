@@ -1,0 +1,39 @@
+.ticket-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.bottom-card{
+    margin: 10px;
+}
+.top-card {
+    display: flex;
+    color: gray;
+    justify-content: space-between;
+}
+
+.bottom-card {
+    display: flex;
+    gap: 10px;
+}
+
+.img-style {
+    width: 20px;
+}
+
+.assigned-to {
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0px;
+
+}

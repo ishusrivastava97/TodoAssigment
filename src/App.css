@@ -1,0 +1,14 @@
+.container {
+  margin: 0px;
+  padding: 1px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+body {
+  background-color: rgba(244, 246, 250, 1);
+  
+  margin: 0;
+  
+  padding: 0;
+}
